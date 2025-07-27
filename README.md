@@ -11,7 +11,7 @@ I'm actively solving problems to sharpen my data structures and algorithms skill
 | #   | Title       | Difficulty | Solution Link |
 |-----|-------------|------------|----------------|
 | 643   | Maximum Average Subarry I     | Easy       | [643_maximum_average_subarray.py](643_maximum_average_subarray.py) |
-
+| 209   | Minimum Size Subarry Sum   | Medium  | [209_minimum_size_subarray_sum.py](209_minimum_size_subarray_sum.py)  |
 ---
 
 ## 📌 Notes
